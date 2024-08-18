@@ -361,6 +361,8 @@
 "Assets/Free Wood Door Pack/Script/Door.cs"
 "Assets/Free Wood Door Pack/Script/FPSController.cs"
 "Assets/IntroSequence.cs"
+"Assets/Inventory.cs"
+"Assets/InventoryUI.cs"
 "Assets/Mouselook.cs"
 "Assets/PickupObject.cs"
 "Assets/Player.cs"
