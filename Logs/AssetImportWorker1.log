@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.41f1 (0f988161febf) revision 1022081'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16152 MB
+OS: 'Windows 11  (10.0.22631) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 32492 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\UnityEditor\2022.3.41f1\Editor\Unity.exe
+D:\UnityFile\2022.3.41f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
-C:/Users/15375/Desktop/My-project
+C:/Users/Yutian Fan/My project
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-64013
-Successfully changed project path to: C:/Users/15375/Desktop/My-project
-C:/Users/15375/Desktop/My-project
+64078
+Successfully changed project path to: C:/Users/Yutian Fan/My project
+C:/Users/Yutian Fan/My project
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,71 +49,69 @@ C:/Users/15375/Desktop/My-project
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [27208]  Target information:
+Player connection [22788]  Target information:
 
-Player connection [27208]  * "[IP] 172.23.128.1 [Port] 0 [Flags] 2 [Guid] 3293804469 [EditorId] 3293804469 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [22788]  * "[IP] 100.93.253.177 [Port] 0 [Flags] 2 [Guid] 679858649 [EditorId] 679858649 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-9Q6MCQ29) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [27208]  * "[IP] 192.168.1.102 [Port] 0 [Flags] 2 [Guid] 3293804469 [EditorId] 3293804469 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Unable to join player connection multicast group (err: 10013).
-Player connection [27208] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [22788] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22788] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
-Refreshing native plugins compatible for Editor in 6.23 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 15.71 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.41f1 (0f988161febf)
-[Subsystems] Discovering subsystems at path D:/UnityEditor/2022.3.41f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/15375/Desktop/My-project/Assets
+[Subsystems] Discovering subsystems at path D:/UnityFile/2022.3.41f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Yutian Fan/My project/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
-    Vendor:   NVIDIA
-    VRAM:     7957 MB
-    Driver:   32.0.15.5599
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0xa7a0)
+    Vendor:   Intel
+    VRAM:     16246 MB
+    Driver:   31.0.101.4502
 Initialize mono
-Mono path[0] = 'D:/UnityEditor/2022.3.41f1/Editor/Data/Managed'
-Mono path[1] = 'D:/UnityEditor/2022.3.41f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/UnityEditor/2022.3.41f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Mono path[0] = 'D:/UnityFile/2022.3.41f1/Editor/Data/Managed'
+Mono path[1] = 'D:/UnityFile/2022.3.41f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/UnityFile/2022.3.41f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56668
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/UnityEditor/2022.3.41f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/UnityEditor/2022.3.41f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002165 seconds.
-- Loaded All Assemblies, in  0.228 seconds
+Register platform support module: D:/UnityFile/2022.3.41f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/UnityFile/2022.3.41f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003896 seconds.
+- Loaded All Assemblies, in  0.323 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.188 seconds
-Domain Reload Profiling: 417ms
-	BeginReloadAssembly (67ms)
+- Finished resetting the current domain, in  0.217 seconds
+Domain Reload Profiling: 540ms
+	BeginReloadAssembly (131ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (24ms)
-	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (34ms)
-	LoadAllAssembliesAndSetupDomain (97ms)
-		LoadAssemblies (66ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (114ms)
+		LoadAssemblies (131ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (95ms)
-			TypeCache.Refresh (94ms)
-				TypeCache.ScanAssembly (85ms)
+		AnalyzeDomain (112ms)
+			TypeCache.Refresh (110ms)
+				TypeCache.ScanAssembly (98ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (188ms)
+	FinalizeReload (217ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (154ms)
+		SetupLoadedEditorAssemblies (182ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (6ms)
-			SetLoadedEditorAssemblies (4ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (108ms)
-			ProcessInitializeOnLoadMethodAttributes (34ms)
+			ProcessInitializeOnLoadAttributes (122ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -122,9 +120,7 @@ Domain Reload Profiling: 417ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-Symbol file data-0000023E0C16D020 doesn't match image C:\Users\15375\Desktop\My-project\Library\ScriptAssemblies\Assembly-CSharp.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  0.471 seconds
+- Loaded All Assemblies, in  0.623 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
@@ -132,47 +128,47 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.502 seconds
-Domain Reload Profiling: 972ms
-	BeginReloadAssembly (135ms)
+- Finished resetting the current domain, in  0.505 seconds
+Domain Reload Profiling: 1124ms
+	BeginReloadAssembly (171ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (10ms)
+		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (20ms)
-	RebuildCommonClasses (23ms)
-	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (31ms)
-	LoadAllAssembliesAndSetupDomain (274ms)
-		LoadAssemblies (208ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (374ms)
+		LoadAssemblies (362ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (124ms)
-			TypeCache.Refresh (104ms)
-				TypeCache.ScanAssembly (94ms)
-			ScanForSourceGeneratedMonoScriptInfo (10ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (502ms)
+		AnalyzeDomain (137ms)
+			TypeCache.Refresh (119ms)
+				TypeCache.ScanAssembly (107ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (506ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (404ms)
+		SetupLoadedEditorAssemblies (387ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (4ms)
 			SetLoadedEditorAssemblies (2ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (38ms)
-			ProcessInitializeOnLoadAttributes (342ms)
-			ProcessInitializeOnLoadMethodAttributes (17ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (307ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
 			AfterProcessingInitializeOnLoad (1ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (5ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 2.45 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 5.94 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3282 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (1.8 MB). Loaded Objects now: 3740.
-Memory consumption went from 138.8 MB to 137.0 MB.
-Total: 2.605600 ms (FindLiveObjects: 0.156300 ms CreateObjectMapping: 0.060500 ms MarkObjects: 2.138800 ms  DeleteObjects: 0.248500 ms)
+Unloading 3283 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (1.8 MB). Loaded Objects now: 3741.
+Memory consumption went from 143.1 MB to 141.3 MB.
+Total: 2.589800 ms (FindLiveObjects: 0.176900 ms CreateObjectMapping: 0.068200 ms MarkObjects: 2.030800 ms  DeleteObjects: 0.312200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -192,131 +188,53 @@ AssetImportParameters requested are different than current active one (requested
 Received Prepare
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.288 seconds
+- Loaded All Assemblies, in  0.439 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.711 seconds
-Domain Reload Profiling: 999ms
-	BeginReloadAssembly (106ms)
+- Finished resetting the current domain, in  1.185 seconds
+Domain Reload Profiling: 1621ms
+	BeginReloadAssembly (154ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (23ms)
-	RebuildCommonClasses (22ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (24ms)
 	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (16ms)
-	LoadAllAssembliesAndSetupDomain (137ms)
-		LoadAssemblies (175ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (229ms)
+		LoadAssemblies (315ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (18ms)
-			TypeCache.Refresh (7ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (8ms)
 				TypeCache.ScanAssembly (1ms)
-			ScanForSourceGeneratedMonoScriptInfo (5ms)
-			ResolveRequiredComponents (5ms)
-	FinalizeReload (711ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1185ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (433ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (5ms)
-			SetLoadedEditorAssemblies (3ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (44ms)
-			ProcessInitializeOnLoadAttributes (362ms)
-			ProcessInitializeOnLoadMethodAttributes (17ms)
-			AfterProcessingInitializeOnLoad (1ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (5ms)
-Refreshing native plugins compatible for Editor in 2.05 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 26 unused Assets / (1.8 MB). Loaded Objects now: 3743.
-Memory consumption went from 128.3 MB to 126.6 MB.
-Total: 2.762800 ms (FindLiveObjects: 0.279500 ms CreateObjectMapping: 0.100400 ms MarkObjects: 2.193600 ms  DeleteObjects: 0.187500 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:scripting/monoscript/fileName/InventoryUI.cs: a51eed18ec49e69d87a737edf5ea607f -> 
-  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 1d15ac55bbdce188d8c6801b6cd343ff -> 4754c43b8ca666d1c6619f74352c1a15
-========================================================================
-Received Import Request.
-  Time since last request: 378662.805788 seconds.
-  path: Assets/InventoryUI.cs
-  artifactKey: Guid(e5ec3909723e06d4694034330ed4be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/InventoryUI.cs using Guid(e5ec3909723e06d4694034330ed4be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'bef1ce5cd07c7f42aa3bef0414a7edbb') in 0.004309 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Prepare
-Caller must complete domain reload
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.293 seconds
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.682 seconds
-Domain Reload Profiling: 975ms
-	BeginReloadAssembly (102ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (20ms)
-	RebuildCommonClasses (22ms)
-	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (17ms)
-	LoadAllAssembliesAndSetupDomain (144ms)
-		LoadAssemblies (181ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (17ms)
-			TypeCache.Refresh (6ms)
-				TypeCache.ScanAssembly (1ms)
-			ScanForSourceGeneratedMonoScriptInfo (5ms)
-			ResolveRequiredComponents (5ms)
-	FinalizeReload (683ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (406ms)
+		SetupLoadedEditorAssemblies (373ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (5ms)
 			SetLoadedEditorAssemblies (2ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (38ms)
-			ProcessInitializeOnLoadAttributes (343ms)
-			ProcessInitializeOnLoadMethodAttributes (16ms)
-			AfterProcessingInitializeOnLoad (1ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (268ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (4ms)
-Refreshing native plugins compatible for Editor in 1.73 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 6.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 26 unused Assets / (1.8 MB). Loaded Objects now: 3747.
-Memory consumption went from 128.1 MB to 126.3 MB.
-Total: 2.547500 ms (FindLiveObjects: 0.158500 ms CreateObjectMapping: 0.054900 ms MarkObjects: 1.985100 ms  DeleteObjects: 0.348000 ms)
+Unloading 3235 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (1.8 MB). Loaded Objects now: 3744.
+Memory consumption went from 132.6 MB to 130.9 MB.
+Total: 3.088800 ms (FindLiveObjects: 0.177500 ms CreateObjectMapping: 0.078300 ms MarkObjects: 2.587300 ms  DeleteObjects: 0.244500 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -324,9 +242,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:scripting/monoscript/fileName/InventoryUI.cs: a51eed18ec49e69d87a737edf5ea607f -> 
+  custom:scripting/monoscript/fileName/InventoryUI.cs: f70d77a96e8f4f5a5e115ad4d542e4f2 -> a51eed18ec49e69d87a737edf5ea607f
   custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
-  custom:scripting/monoscript/fileName/Inventory.cs: d078795b7125c8d5b747e156a3e12651 -> 
+  custom:scripting/monoscript/fileName/Inventory.cs: b79a38350917b6ca6b1730278606b037 -> d078795b7125c8d5b747e156a3e12651
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
@@ -335,1801 +253,153 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 7e299442edac05318b8e3a4215edb72a -> 4754c43b8ca666d1c6619f74352c1a15
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 605ee4b17b636e2d18d892962c676ca6 -> fed1c67b9e30d74f2eaeb980cf6f4fbe
 ========================================================================
 Received Import Request.
-  Time since last request: 237.892970 seconds.
-  path: Assets/Inventory.cs
+  Time since last request: 122339.915512 seconds.
+  path: Assets/script/Inventory.cs
   artifactKey: Guid(544f0ff1dd884b649882ff75b556bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Inventory.cs using Guid(544f0ff1dd884b649882ff75b556bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'feed859a438bc6bb0da2f238591029de') in 0.003597 seconds
+Start importing Assets/script/Inventory.cs using Guid(544f0ff1dd884b649882ff75b556bc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+ -> (artifact id: 'ec639eb5501c1065cbbedfeed4d54787') in 0.002258 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
-Received Import Request.
-  Time since last request: 33.792708 seconds.
-  path: Assets/Character Model/Material/Basic/skin_womanAlternative.mat
-  artifactKey: Guid(96762f0005604c94bb01dd8f530b53fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Basic/skin_womanAlternative.mat using Guid(96762f0005604c94bb01dd8f530b53fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '9d0b4c8dccfa038351df16bd4c9fc73a') in 0.094633 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Character Model/Material/Advanced/skin_womanAlternative.mat
-  artifactKey: Guid(d78ae75865bb57b4e84724e915e80669) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Advanced/skin_womanAlternative.mat using Guid(d78ae75865bb57b4e84724e915e80669) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b0bfd3eb94a45e22cf6e3ab3923e29e8') in 0.021610 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
-  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '11ebe56bc8f609c068b46e92b19d5624') in 0.045499 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_3_Materials/Door_3_Venge.mat
-  artifactKey: Guid(06ad3f97e801c534ba0d1593d370e34c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_3_Materials/Door_3_Venge.mat using Guid(06ad3f97e801c534ba0d1593d370e34c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '94c8378c4ad8b54b6a89aa81cd61289a') in 0.034873 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_6/Door_6_Milk.prefab
-  artifactKey: Guid(854402e145e371548a6de06789d16e48) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_6/Door_6_Milk.prefab using Guid(854402e145e371548a6de06789d16e48) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '28c4704a4ff93fcf069b1f72d734c85d') in 0.016094 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Character Model/Material/Advanced/skin_woman.mat
-  artifactKey: Guid(78ca43db30d83f548b74cbf3dfb1e8aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Advanced/skin_woman.mat using Guid(78ca43db30d83f548b74cbf3dfb1e8aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '2e4c16e34800c2d10078182851a53351') in 0.027410 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/MASH Virtual/Table/Prefab/Table_New.prefab
-  artifactKey: Guid(7d72879ba54738d42887f83754ca3b26) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/MASH Virtual/Table/Prefab/Table_New.prefab using Guid(7d72879ba54738d42887f83754ca3b26) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'bfb06d52e8a1176a9995882c20d0ae60') in 0.030046 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_5
-  artifactKey: Guid(c2d192eb5f4d2584a9bbce68064f012b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_5 using Guid(c2d192eb5f4d2584a9bbce68064f012b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '9a297567e8a2b0ccb12827f3456a824f') in 0.016462 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_6/Door_6_Brown.prefab
-  artifactKey: Guid(20ff6c4dd1b3ec14c95f6c81fba10416) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_6/Door_6_Brown.prefab using Guid(20ff6c4dd1b3ec14c95f6c81fba10416) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b7ae0cda0a044309dc2dcdc15d185ea1') in 0.012422 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/door.cs
-  artifactKey: Guid(4d85bd833f5bcfb44a35b86bac94ff32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/door.cs using Guid(4d85bd833f5bcfb44a35b86bac94ff32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '1216b3e4fbe7847aaab44315a1a103d4') in 0.013892 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Free Wood Door Pack/Mesh/Knob_1.FBX
-  artifactKey: Guid(61da1afafe7ba6d4d87fd529947cb422) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Mesh/Knob_1.FBX using Guid(61da1afafe7ba6d4d87fd529947cb422) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '46b61db3511a35bb238f8eee9b983899') in 0.036571 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Character Model
-  artifactKey: Guid(5885822f333cc10429427e414a0fe809) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model using Guid(5885822f333cc10429427e414a0fe809) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '9c210a07566f2a9b5519b77423d409e0') in 0.010838 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_3
-  artifactKey: Guid(e71e6956a4c5803408c68eb31e7ab555) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_3 using Guid(e71e6956a4c5803408c68eb31e7ab555) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '305edcd74fdca54d121e21cdded9b357') in 0.010455 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/PBR Folding Chairs/Demo Scene/groundMaterial.mat
-  artifactKey: Guid(02ab29f8b2f9f6a49a210388c852c183) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PBR Folding Chairs/Demo Scene/groundMaterial.mat using Guid(02ab29f8b2f9f6a49a210388c852c183) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '724556f4c85ce1d200b330bf772ae3fd') in 0.010987 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Character Model/Material/Basic/skin_robot.mat
-  artifactKey: Guid(c8f007ec1b937fb4d9a0ef753dbe8f97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Basic/skin_robot.mat using Guid(c8f007ec1b937fb4d9a0ef753dbe8f97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '778a336de4d60af2d66ce7ae34613688') in 0.025921 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Venge.prefab
-  artifactKey: Guid(42932be0b8e1b8e43a099fe54703f114) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Venge.prefab using Guid(42932be0b8e1b8e43a099fe54703f114) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e7cae5451fa3286a33d9c94b68fec25e') in 0.011948 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000121 seconds.
-  path: Assets/Free Wood Door Pack/Script/Door.cs
-  artifactKey: Guid(731917776111cfd4e8e238be7a676f44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Script/Door.cs using Guid(731917776111cfd4e8e238be7a676f44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'bb5ef57f81d8a11406e20879f684845a') in 0.013156 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Character Model/Material/Basic
-  artifactKey: Guid(d36961f6beacf1043b7b3758c26a7e2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Basic using Guid(d36961f6beacf1043b7b3758c26a7e2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'bf98acbfa620a91ade101f16ad9cbebf') in 0.013133 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000074 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'da3a94e3a390af83fc7b77f16366ce94') in 0.014219 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/PBR Folding Chairs/chFolding.A4.prefab
-  artifactKey: Guid(5009eca976e988c4897ba76fd171b10a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PBR Folding Chairs/chFolding.A4.prefab using Guid(5009eca976e988c4897ba76fd171b10a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'fa45b59b556d4509d8f1fa2ed232065e') in 0.024929 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 16
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_8_Materials/Door_8_Milk.mat
-  artifactKey: Guid(987d951c0906e904992839f1bd8d5936) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_8_Materials/Door_8_Milk.mat using Guid(987d951c0906e904992839f1bd8d5936) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '80a49de211b21e8aaf2d94c893268e8b') in 0.032788 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
-  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'f78495b0e70c27eead944ef6c2c64fd1') in 0.025461 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_1/Door_1_Milk.prefab
-  artifactKey: Guid(145951c76cacc4f4393085a293255411) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_1/Door_1_Milk.prefab using Guid(145951c76cacc4f4393085a293255411) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '01a3841b2ae796398eae3078b415b080') in 0.013311 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000094 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
-  artifactKey: Guid(a6e39ced0ea046bcb636c3f0b2e2a745) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab using Guid(a6e39ced0ea046bcb636c3f0b2e2a745) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'd67a28a421c2263f93a4aa7c58453e94') in 0.012922 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Venge.mat
-  artifactKey: Guid(a62844ba24ffdf149b878c319ddd6141) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Venge.mat using Guid(a62844ba24ffdf149b878c319ddd6141) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'd74d303167f1cc0d426cf7d4b183e54e') in 0.024688 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
-  artifactKey: Guid(39a1fa96ad2a449b908fca29d4297a74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity using Guid(39a1fa96ad2a449b908fca29d4297a74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '21ab238ba9041029a7e6f9c36a208536') in 0.019578 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
-  artifactKey: Guid(9747140c28254be2adc582210dfb89b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity using Guid(9747140c28254be2adc582210dfb89b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '50c09ed0b871e70183b524095f11285a') in 0.032191 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000066 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_14/Door_14_White.prefab
-  artifactKey: Guid(0ee90cd048ddc8d47970df26d7619cf9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_14/Door_14_White.prefab using Guid(0ee90cd048ddc8d47970df26d7619cf9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '3ae01eca78dd4e9a853af94a9b4910ec') in 0.014259 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000073 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_13
-  artifactKey: Guid(b099a3b749aa78c44bc114249a5f764c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_13 using Guid(b099a3b749aa78c44bc114249a5f764c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '3a0fd4dffcdc1172e52584cf62d0618b') in 0.017735 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000087 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(935a0ec796f3e694d97e3c33db255f29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scenes using Guid(935a0ec796f3e694d97e3c33db255f29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '48c586ef570795f60033ac5b414e53ca') in 0.031471 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
-  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '0bc4de13f00ba6e5a3edd3eee68de22a') in 0.018197 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_13
-  artifactKey: Guid(25ba95140565a6649beb8e3ed15a7196) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_13 using Guid(25ba95140565a6649beb8e3ed15a7196) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'a1b5c904653c150ccac054eb918b468f') in 0.014051 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000091 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
-  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c1182b0247e0356e83f12423850c851c') in 0.023991 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000089 seconds.
-  path: Assets/Character Model/Material/Basic/skin_manAlternative.mat
-  artifactKey: Guid(b0e47c82acf5c6844b52ebd74f075ae0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Basic/skin_manAlternative.mat using Guid(b0e47c82acf5c6844b52ebd74f075ae0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '7e37e5a29b6152ce18bc27ec9d7bac0d') in 0.020040 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_12/Door_12_Venge.prefab
-  artifactKey: Guid(36fd62b71d5f9b14588b21fd95201747) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_12/Door_12_Venge.prefab using Guid(36fd62b71d5f9b14588b21fd95201747) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '76ed422eed074afa6fbeeff1335d4f0a') in 0.013979 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000067 seconds.
-  path: Assets/Character Model/Model/Materials
-  artifactKey: Guid(4f010d013e9fb9448b4ce911e60c2e0e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Model/Materials using Guid(4f010d013e9fb9448b4ce911e60c2e0e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '9b9f6cd4037d73f8979ecd65f8bff4b8') in 0.012617 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000089 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_13_Materials/Door_13_Black.mat
-  artifactKey: Guid(793ce4f826242d04eb7b653f03f1ce3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_13_Materials/Door_13_Black.mat using Guid(793ce4f826242d04eb7b653f03f1ce3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '6cb543c1c300ec28b8c6f92ddcfe237d') in 0.028628 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/MASH Virtual/Table/Material/Table New Mat.mat
-  artifactKey: Guid(49f2633e52a7cd94ca090388a0d0e87c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/MASH Virtual/Table/Material/Table New Mat.mat using Guid(49f2633e52a7cd94ca090388a0d0e87c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b11248400d0435e722982eacca99d31f') in 0.023092 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
-  artifactKey: Guid(efe0bf4ac872451e91612d1ae593f480) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt using Guid(efe0bf4ac872451e91612d1ae593f480) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '31e6e2d773750b2c1f6835e3c1eb57da') in 0.022218 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_6_Materials/Door_6_Yellow.mat
-  artifactKey: Guid(c4ce783bae7642041ae63afb99a7eb57) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_6_Materials/Door_6_Yellow.mat using Guid(c4ce783bae7642041ae63afb99a7eb57) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b9af0b40608dcc552472aa1c1a73591d') in 0.024530 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/ChangeColor.cs
-  artifactKey: Guid(d164bd3b526dd42e4b77d3efafb95a58) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/ChangeColor.cs using Guid(d164bd3b526dd42e4b77d3efafb95a58) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'fa17508374b37a151037a31492fc7fae') in 0.015611 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_2/Door_2_Yellow.prefab
-  artifactKey: Guid(e20483c6a68b6614f9423dfde6d7954f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_2/Door_2_Yellow.prefab using Guid(e20483c6a68b6614f9423dfde6d7954f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '266f9698a2d4fe5265ec335ba5d55faf') in 0.013970 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000113 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
-  artifactKey: Guid(f9b4c22e15cff344ba9fc6542a58dd07) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity using Guid(f9b4c22e15cff344ba9fc6542a58dd07) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'af716fd41fa06f8fc026da34c009ee6d') in 0.014710 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000069 seconds.
-  path: Assets/Character Model/Material/Basic/skin_soldier.mat
-  artifactKey: Guid(599a57b974e2a374cb049383448d1635) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Basic/skin_soldier.mat using Guid(599a57b974e2a374cb049383448d1635) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c88579477af7da1100778a8c3a53e485') in 0.027812 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts
-  artifactKey: Guid(3979ce59e55144c89a2b3b3f8dcf7fd3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts using Guid(3979ce59e55144c89a2b3b3f8dcf7fd3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '42381a35a269e9d9540507b09c2905f2') in 0.017491 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
-  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5269b7e1e8aad9fe98bfd645e09f95da') in 0.018479 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
-  artifactKey: Guid(53d91f98a2664f5cb9af11de72ac54ec) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs using Guid(53d91f98a2664f5cb9af11de72ac54ec) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b081a4eda540da68e249b4b63660016b') in 0.019102 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/MASH Virtual/Table/Material/Table Old Mat.mat
-  artifactKey: Guid(2e2e287d72d1c4f44b3cb5433a9abe62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/MASH Virtual/Table/Material/Table Old Mat.mat using Guid(2e2e287d72d1c4f44b3cb5433a9abe62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b95d240810b37be90b9f69a2d2c9eb1f') in 0.020037 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Coffe.prefab
-  artifactKey: Guid(3cb7a9fd1c4a69440b85c4094b56382b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Coffe.prefab using Guid(3cb7a9fd1c4a69440b85c4094b56382b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'f0b19a2f50b0927f53caf762876ab362') in 0.012540 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000121 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
-  artifactKey: Guid(103e0a6a1d404693b9fb1a5173e0e979) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs using Guid(103e0a6a1d404693b9fb1a5173e0e979) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '2f1eeeb02ac2aaf8da40398eeebeedb3') in 0.015984 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_12_Materials/Door_12_Coffe.mat
-  artifactKey: Guid(2c05b788c70c36b4a9902118be5ee2d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_12_Materials/Door_12_Coffe.mat using Guid(2c05b788c70c36b4a9902118be5ee2d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'fb695516b9f574693ff6537ef8392f4a') in 0.024006 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.004015 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat
-  artifactKey: Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat using Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5760f79c094cb940b0e9540920dfb519') in 0.025168 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Free Wood Door Pack/Materials/SkyboxProcedural.mat
-  artifactKey: Guid(dce25ada87405a64c943cc71f7db0f05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/SkyboxProcedural.mat using Guid(dce25ada87405a64c943cc71f7db0f05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'adc397368c4cfbfdd182ba699c1e9e08') in 0.014043 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
-  artifactKey: Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity using Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'f72e4257f0e95b8f4a95364a07078eb9') in 0.012705 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_11/Door_11_Milk.prefab
-  artifactKey: Guid(44921e7d1bcb4ec45ab64183de0f0dce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_11/Door_11_Milk.prefab using Guid(44921e7d1bcb4ec45ab64183de0f0dce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '50295ba14352cedd9ae70ab30b3a6df5') in 0.022287 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000080 seconds.
-  path: Assets/WhiteboardTexture.renderTexture
-  artifactKey: Guid(a95a5f149ce0df64c931898feae5ecfa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/WhiteboardTexture.renderTexture using Guid(a95a5f149ce0df64c931898feae5ecfa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '877df530d9289ea919a3a0a71fb721fe') in 0.016238 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/JustPlay/TableAngular/TableAngular.prefab
-  artifactKey: Guid(b608d259d5f995a4f9c8d41566d93989) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/JustPlay/TableAngular/TableAngular.prefab using Guid(b608d259d5f995a4f9c8d41566d93989) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '37e24f6da5cc1fe96fc06a92d90b844a') in 0.031349 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 21
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials
-  artifactKey: Guid(4f1e85c79acf49968737939ce8b445c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials using Guid(4f1e85c79acf49968737939ce8b445c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '182e68bbcaa558944782c6dcc917ca12') in 0.013235 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000072 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_3_Materials
-  artifactKey: Guid(97298b58223cf24488b4cc3260de04c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_3_Materials using Guid(97298b58223cf24488b4cc3260de04c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'bcd31e4f7fc40ffccf46fad3c20e9018') in 0.012469 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_Knob_Material/Copper.mat
-  artifactKey: Guid(27671ef6ad4a82148ade30fbd4ec5d32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_Knob_Material/Copper.mat using Guid(27671ef6ad4a82148ade30fbd4ec5d32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '0db86f85da7da816737adcadb4f901b9') in 0.017951 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_Brown.mat
-  artifactKey: Guid(0100eda7def32884bb15c00f29ae7e39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_Brown.mat using Guid(0100eda7def32884bb15c00f29ae7e39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '29530479abb7aba83e8522235329ee56') in 0.021022 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_14/Door_14_Yellow.prefab
-  artifactKey: Guid(d5ce81421cfa9604fb2b954d495656ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_14/Door_14_Yellow.prefab using Guid(d5ce81421cfa9604fb2b954d495656ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '32edee178ca3843adebc2582ac91d74c') in 0.010714 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000152 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_Milk.mat
-  artifactKey: Guid(20830380eb9072641a793907544a0f44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_Milk.mat using Guid(20830380eb9072641a793907544a0f44) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'ed4aab0d7443f688c49a72b35fa60a11') in 0.021220 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_1_Materials/Door_1_Brown.mat
-  artifactKey: Guid(8435c264ba4b3ef46abdcf3b27cda62c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_1_Materials/Door_1_Brown.mat using Guid(8435c264ba4b3ef46abdcf3b27cda62c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '19046008728965d261808a6ba88a26f3') in 0.021867 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_4_Materials/Door_4_Venge.mat
-  artifactKey: Guid(55dd02e683667e64aa428c1bd2cf55c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_4_Materials/Door_4_Venge.mat using Guid(55dd02e683667e64aa428c1bd2cf55c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '4577996708b98f3af06ae9ccc15b53c7') in 0.019914 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources
-  artifactKey: Guid(d6d3a169ad794942a21da6a552d62f6f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources using Guid(d6d3a169ad794942a21da6a552d62f6f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '98ccb3cdfaf5dffd6e792475e75e2933') in 0.014748 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
-  artifactKey: Guid(76c11bbcfddf44e0ba17d6c2751c8d84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs using Guid(76c11bbcfddf44e0ba17d6c2751c8d84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '50443351dc2d1761f455c765c75587dc') in 0.016661 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000069 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
-  artifactKey: Guid(3e2e4d7b0bed4cf9ab827e9f32448f69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity using Guid(3e2e4d7b0bed4cf9ab827e9f32448f69) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '0f95b4fd3c7232a8988af164d5e85514') in 0.009709 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
-  artifactKey: Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab using Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5b1705cbedcc633b4fc0cc60ed69471e') in 0.012339 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
-  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5e1e322065df48e8df541785e6dbb25f') in 0.027408 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/WhiteboardInteraction.cs
-  artifactKey: Guid(32290ecb52292bf43a11af83cff707f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/WhiteboardInteraction.cs using Guid(32290ecb52292bf43a11af83cff707f8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '6aaba9353316de7bc1f0a84b99f80c68') in 0.014761 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Books/3dobjects_FBX/books.fbx
-  artifactKey: Guid(08e091500e68ded43b4abfb1b3f718d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Books/3dobjects_FBX/books.fbx using Guid(08e091500e68ded43b4abfb1b3f718d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '17a80781736cf335aaa32e405fee0216') in 0.024143 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 26
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/MASH Virtual/Table/Post Processing
-  artifactKey: Guid(a7e8c9695fe74ad4fbb2af2173da94c5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/MASH Virtual/Table/Post Processing using Guid(a7e8c9695fe74ad4fbb2af2173da94c5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e3269a35668d1aede0f87bf32ec748c1') in 0.013323 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000088 seconds.
-  path: Assets/New Material 1.mat
-  artifactKey: Guid(68dfb9f6d37948741990a04f99243b13) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/New Material 1.mat using Guid(68dfb9f6d37948741990a04f99243b13) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'a8a90c2bc1f2b0e88963a43f3f20700b') in 0.016426 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000141 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_9_Materials/Door_9_Brown.mat
-  artifactKey: Guid(ab06ad36a7ab76148973ec498e422f5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_9_Materials/Door_9_Brown.mat using Guid(ab06ad36a7ab76148973ec498e422f5d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '6bd72d59390367355141fa17ba18238a') in 0.018451 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_5
-  artifactKey: Guid(9e0fb91f6dad754489a842c9ea333412) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_5 using Guid(9e0fb91f6dad754489a842c9ea333412) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '8e01bdd9d6fdea4e17f5bfce14ec05e6') in 0.014183 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000093 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_12/Door_12_Coffe.prefab
-  artifactKey: Guid(0b41a131488f6a54a9ab98b05ba7fb12) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_12/Door_12_Coffe.prefab using Guid(0b41a131488f6a54a9ab98b05ba7fb12) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '7a3e0e6f610d57f0ebf4dd01be2e521e') in 0.014828 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_15/Door_15_Milk.prefab
-  artifactKey: Guid(4ce9a573166ac53458cc2fd05f2802fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_15/Door_15_Milk.prefab using Guid(4ce9a573166ac53458cc2fd05f2802fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '83401a56d33743fab6ef630155615bd7') in 0.012961 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000082 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_14
-  artifactKey: Guid(b779167d76942b14fb7d57ec68416195) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_14 using Guid(b779167d76942b14fb7d57ec68416195) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c8a234015e796ecb0fc2c9f38e50a526') in 0.017771 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
-  artifactKey: Guid(16177da2e3254cee91944756d5f8ddd3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity using Guid(16177da2e3254cee91944756d5f8ddd3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'a1dcfe0a327fa277a8bbad1cf22d96d3') in 0.013664 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/MASH Virtual
-  artifactKey: Guid(57d60ee5f8b5d40f88fb995fbb528d89) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/MASH Virtual using Guid(57d60ee5f8b5d40f88fb995fbb528d89) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '8ee3af4f5c315727732e494f03330554') in 0.013072 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_10_Materials/Door_10_White.mat
-  artifactKey: Guid(1bd280b707d686b42ace8463f2f1f5c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_10_Materials/Door_10_White.mat using Guid(1bd280b707d686b42ace8463f2f1f5c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '41484fa20e1d6d067b93a6ef6d63e4d7') in 0.023833 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity
-  artifactKey: Guid(337f92480dd24675aae9e79210fb1ad9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity using Guid(337f92480dd24675aae9e79210fb1ad9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c656e1693d272af10bfcb2173c4c7333') in 0.016802 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000072 seconds.
-  path: Assets/Prefabs/VideoButtonPrefab.prefab
-  artifactKey: Guid(43ce22362852f82488bfa924b444861d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Prefabs/VideoButtonPrefab.prefab using Guid(43ce22362852f82488bfa924b444861d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5fe5ce16b21e13ff9923121d3401566c') in 0.015249 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_6_Materials
-  artifactKey: Guid(2cdfdf65c55189c498fa40270dc0c725) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_6_Materials using Guid(2cdfdf65c55189c498fa40270dc0c725) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e333a7058f1d67e018fa0c93aed3cb92') in 0.015105 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_4/Door_4_Venge.prefab
-  artifactKey: Guid(d5b34822e12447b41a9a59f29e8818c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_4/Door_4_Venge.prefab using Guid(d5b34822e12447b41a9a59f29e8818c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'd14a170e6c37bdc236b1cfe1213e2bb7') in 0.014063 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
-  artifactKey: Guid(9eff140b25d64601aabc6ba32245d099) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs using Guid(9eff140b25d64601aabc6ba32245d099) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '7bfe2bf766a42a35768bd8bb9f07fcf6') in 0.013734 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_6_Materials/Door_6_Milk.mat
-  artifactKey: Guid(32669d36e5f167246bf99094331606b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_6_Materials/Door_6_Milk.mat using Guid(32669d36e5f167246bf99094331606b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'f403e0fe03a4e34ef07cde42039bc404') in 0.050716 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
-  artifactKey: Guid(bc1ede39bf3643ee8e493720e4259791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader using Guid(bc1ede39bf3643ee8e493720e4259791) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '4529e70a1da6ec60913d2ec7781f90fd') in 0.016731 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Materials
-  artifactKey: Guid(0f3d7d849f4d964419b8c1a6419b6cad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Materials using Guid(0f3d7d849f4d964419b8c1a6419b6cad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e9e94b0c16c1be1a8bd44e6927fd4a55') in 0.013387 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_11_Materials/Door_11_Coffe.mat
-  artifactKey: Guid(d38459bfa9dfb774cb70952dac30ec03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_11_Materials/Door_11_Coffe.mat using Guid(d38459bfa9dfb774cb70952dac30ec03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '2a4050b1ceaa87d099f48ce6577e9cc5') in 0.024500 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_6
-  artifactKey: Guid(4a7bf70dcb1eaf142b4f23d1bd6ed9ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_6 using Guid(4a7bf70dcb1eaf142b4f23d1bd6ed9ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '14896e4d0048ff3e32975b79e82e68e8') in 0.014074 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000084 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset
-  artifactKey: Guid(5cf8ae092ca54931b443bec5148f3c59) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset using Guid(5cf8ae092ca54931b443bec5148f3c59) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c2c99c0683c5ba1ab68aff323f008111') in 0.017911 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_3/Door_3_Milk.prefab
-  artifactKey: Guid(568da07845320fd45b7c66635bf12799) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_3/Door_3_Milk.prefab using Guid(568da07845320fd45b7c66635bf12799) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '6db3e21de5d156eb4a7dbd4ecd21966e') in 0.014091 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000078 seconds.
-  path: Assets/wall.mat
-  artifactKey: Guid(d89172ca4c43acc44bc55e35b96c712a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/wall.mat using Guid(d89172ca4c43acc44bc55e35b96c712a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b8abb57c2e90eabae3f3c0837333b44f') in 0.018921 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_9
-  artifactKey: Guid(bd44ce084bbdbf945afed7b4f79ddcb0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_9 using Guid(bd44ce084bbdbf945afed7b4f79ddcb0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'ad3b5c25885ce71f3e26b6311fdce89a') in 0.014762 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_4/Door_4_Brown.prefab
-  artifactKey: Guid(50f132ebf2f56c94fb5dda3d12b89795) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_4/Door_4_Brown.prefab using Guid(50f132ebf2f56c94fb5dda3d12b89795) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '33b098e623ca1e484edce0447ea6cd8a') in 0.013916 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
-  artifactKey: Guid(42df1c7856584b6b8db9a509b6b10074) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat using Guid(42df1c7856584b6b8db9a509b6b10074) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '33ba86abe0333f1ee50a0c82da96827b') in 0.028653 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Brown.prefab
-  artifactKey: Guid(bf3641dc1a2eed346a86d653d78ad96b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Brown.prefab using Guid(bf3641dc1a2eed346a86d653d78ad96b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '9fe6ee73c8c632b7a35290a5a9c97d95') in 0.012374 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000107 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_Knob_Material/Silver.mat
-  artifactKey: Guid(74d049c34000329458b9b53fadd16377) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_Knob_Material/Silver.mat using Guid(74d049c34000329458b9b53fadd16377) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '613e93825cc0ef62287c7f2dfcddf594') in 0.018370 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/PBR Folding Chairs/Materials/chFolding.A2.mat
-  artifactKey: Guid(71a7737cded596849ad70f1cedd92ef7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PBR Folding Chairs/Materials/chFolding.A2.mat using Guid(71a7737cded596849ad70f1cedd92ef7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5be473e60e3fe73fc2d22a8ce0a22e40') in 0.042048 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
-  artifactKey: Guid(1312ae25639a4bae8e25ae223209cc50) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs using Guid(1312ae25639a4bae8e25ae223209cc50) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e4a6b57edcd89c35edd42fa3ccee93b5') in 0.029673 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000055 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_4/Door_4_White.prefab
-  artifactKey: Guid(4ef963e0884b85747ae4641402f3ab74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_4/Door_4_White.prefab using Guid(4ef963e0884b85747ae4641402f3ab74) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '866308a68f4a327797e4ad3d5eafbae1') in 0.010687 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity
-  artifactKey: Guid(0851605490a599b46b6ac5cb681d93ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity using Guid(0851605490a599b46b6ac5cb681d93ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c335c6d663c0f8e5aa0ad1426811a0e8') in 0.016599 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000073 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
-  artifactKey: Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs using Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '3c825739fb6554718912f6a303016906') in 0.014948 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Books/Textures
-  artifactKey: Guid(9af5ed91f96a875428a6fd76e9ea953c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Books/Textures using Guid(9af5ed91f96a875428a6fd76e9ea953c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'aa4ee977913d64e1ec5d33a46363989a') in 0.014213 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/MASH Virtual/Table/Prefab/Table_Old.prefab
-  artifactKey: Guid(70ba99294aa3c1047a523b23d168a5d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/MASH Virtual/Table/Prefab/Table_Old.prefab using Guid(70ba99294aa3c1047a523b23d168a5d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '8ff558dda49eb71bab3eb47dd77694c6') in 0.027657 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Mesh/Knob_3.FBX
-  artifactKey: Guid(bcf2f716d78860f45ba4cda490856ec0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Mesh/Knob_3.FBX using Guid(bcf2f716d78860f45ba4cda490856ec0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'bae183de9bd464d9b072819394eb21ed') in 0.021048 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_3/Door_3_Brown.prefab
-  artifactKey: Guid(83b0e1aa6fd302d48bf48b1a30f9031c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_3/Door_3_Brown.prefab using Guid(83b0e1aa6fd302d48bf48b1a30f9031c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '1fcab6244f2984760a4072b8e2ce28ba') in 0.013972 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/PBR Folding Chairs/Demo Scene
-  artifactKey: Guid(41a7a38af18051a49955083564b41280) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PBR Folding Chairs/Demo Scene using Guid(41a7a38af18051a49955083564b41280) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'ede9113c2e01919ed5f532f417980c81') in 0.011423 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_14/Door_14_Coffe.prefab
-  artifactKey: Guid(126cccdcc23b04e4fb0d7ccd97ad73d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_14/Door_14_Coffe.prefab using Guid(126cccdcc23b04e4fb0d7ccd97ad73d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5747c8c661a240ad3f8239e1492bcb2a') in 0.014703 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000078 seconds.
-  path: Assets/MASH Virtual/Demo/Table Demo
-  artifactKey: Guid(7aa022a03073d25448504586d0202ad0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/MASH Virtual/Demo/Table Demo using Guid(7aa022a03073d25448504586d0202ad0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'af7515cbd17cfdf47b72a88d13cbb9a9') in 0.015462 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000080 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_11_Materials/Door_11_Venge.mat
-  artifactKey: Guid(e5db5b39d565bb044a30c7a6b5326e31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_11_Materials/Door_11_Venge.mat using Guid(e5db5b39d565bb044a30c7a6b5326e31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'bd6b1c7552373c7f940f4d29b872dc3b') in 0.021304 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
-  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5eaa3d91cafc630db64c85a8ba9845aa') in 0.027369 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets
-  artifactKey: Guid(3ac6db30e75b49b282a3564110579f27) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets using Guid(3ac6db30e75b49b282a3564110579f27) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'a3f5ccf549202e351085d228fa75c64b') in 0.012882 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
-  artifactKey: Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity using Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '69d0e694f11a611d7b20700229fb5e3e') in 0.013286 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_1/Door_1_Yellow.prefab
-  artifactKey: Guid(c92cdb9d3b3e15f4b99ce98fe4c864b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_1/Door_1_Yellow.prefab using Guid(c92cdb9d3b3e15f4b99ce98fe4c864b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '9046e046e0249eee74df7d8f049a4213') in 0.016394 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000129 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_10/Door_10_Yellow.prefab
-  artifactKey: Guid(3fa4ea00aef2329418263833e93387c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_10/Door_10_Yellow.prefab using Guid(3fa4ea00aef2329418263833e93387c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'a7e0a6ef3b9def942d743011635e012d') in 0.013612 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
-  artifactKey: Guid(c3c1afeda5e545e0b19add5373896d2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs using Guid(c3c1afeda5e545e0b19add5373896d2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e19d5b21c8b1ec83c330c9a09c9715fb') in 0.015865 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000052 seconds.
-  path: Assets/PBR Folding Chairs/Demo Scene/demoSceneSettings.lighting
-  artifactKey: Guid(de78f71b1a5bb4643807ac6a134ab271) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PBR Folding Chairs/Demo Scene/demoSceneSettings.lighting using Guid(de78f71b1a5bb4643807ac6a134ab271) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
-LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: 'b6744e0bb3c1c528cdea2724f7299ded') in 0.030456 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Books/3dobjects_FBX/Materials
-  artifactKey: Guid(77b29326df09434499ce1c173ca26046) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Books/3dobjects_FBX/Materials using Guid(77b29326df09434499ce1c173ca26046) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '2ab3934b7288ee47aa6b74a7e4a8113d') in 0.014936 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/TextMesh Pro/Shaders
-  artifactKey: Guid(e9f693669af91aa45ad615fc681ed29f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders using Guid(e9f693669af91aa45ad615fc681ed29f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '97e69a002dc661f59fc534ebfe59038a') in 0.014573 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_9_Materials/Door_9_Coffe.mat
-  artifactKey: Guid(161d244c98aeed741bcef00df2053ef2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_9_Materials/Door_9_Coffe.mat using Guid(161d244c98aeed741bcef00df2053ef2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '0298d41ff514a34381e4977bd5324d67') in 0.023279 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Character Model/Material/Advanced/skin_manAlternative.mat
-  artifactKey: Guid(e74499fe3dcb6214a9940679f94cf087) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Advanced/skin_manAlternative.mat using Guid(e74499fe3dcb6214a9940679f94cf087) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '33eafbcc213d50f5bed64f668c56db8e') in 0.024389 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Prefabs
-  artifactKey: Guid(5bff2544887143f5807c7d5059d07f79) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs using Guid(5bff2544887143f5807c7d5059d07f79) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '4bfd410640731dcca8fc5d1398feae7b') in 0.027135 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000081 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_White.prefab
-  artifactKey: Guid(ffd2ccccea67e9c4096d3fc6f17e5434) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_White.prefab using Guid(ffd2ccccea67e9c4096d3fc6f17e5434) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'd4e4af9ecc0863ab7d84250a606a0fea') in 0.016335 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Black.mat
-  artifactKey: Guid(5eeb4b9f36f15ef42b901871ca6ad41e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Black.mat using Guid(5eeb4b9f36f15ef42b901871ca6ad41e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '03c5dfa8c4c06554268ecb0a95798cda') in 0.025946 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_14_Materials/Door_14_Milk.mat
-  artifactKey: Guid(0806dc7a2c2dbd64a8cba9fc985db428) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_14_Materials/Door_14_Milk.mat using Guid(0806dc7a2c2dbd64a8cba9fc985db428) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'ee203f8a1307df089c396a6a53f772e8') in 0.013946 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
-  artifactKey: Guid(70615243e2be4a81afaab9bf5d273d65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity using Guid(70615243e2be4a81afaab9bf5d273d65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '36679d34c3ed44c2bec736cc3de8d74d') in 0.018014 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_13/Door_13_Coffe.prefab
-  artifactKey: Guid(1bcac1a2dd91ec5438cb06c0d5b5d1ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_13/Door_13_Coffe.prefab using Guid(1bcac1a2dd91ec5438cb06c0d5b5d1ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e2d39eed97a8b27408bbffb2d739c2da') in 0.015730 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Books/Prefabs
-  artifactKey: Guid(efff46687f43f8144a5cd9e509b5280b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Books/Prefabs using Guid(efff46687f43f8144a5cd9e509b5280b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '79244ad5e53bd0c8d9d8559d17cc1d46') in 0.006163 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
-  artifactKey: Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs using Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '587943146e0eaaea8f40754ebb30a221') in 0.008243 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
-  artifactKey: Guid(f629c6e43dba4bf38cb74d8860150664) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat using Guid(f629c6e43dba4bf38cb74d8860150664) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e2a415391b500f52f40e901bc4a27a84') in 0.008627 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity
-  artifactKey: Guid(9abcd5bd764646568a6ea70d00f9264c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity using Guid(9abcd5bd764646568a6ea70d00f9264c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '770f4d09d4d82c83c99fbe21549bca7e') in 0.015007 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_15/Door_15_Venge.prefab
-  artifactKey: Guid(81fd8634fa148914db348d5780d00cf6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_15/Door_15_Venge.prefab using Guid(81fd8634fa148914db348d5780d00cf6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e608a7ecf193885e57224eb7ff68f860') in 0.013956 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000078 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
-  artifactKey: Guid(c719e38f25a9480abd2480ab621a2949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat using Guid(c719e38f25a9480abd2480ab621a2949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'dbcdff937f1550075afd6495900c70c4') in 0.020011 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
-  artifactKey: Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '97c16df44b80f5c8590e80c8ebb88bcc') in 0.018202 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 4
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Milk.mat
-  artifactKey: Guid(59d4e72e204e2a4439f43761a50fd1e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Milk.mat using Guid(59d4e72e204e2a4439f43761a50fd1e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5208812ec6c5b1a7b5d0387fee906941') in 0.022439 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_6_Materials/Door_6_White.mat
-  artifactKey: Guid(6033e845443834045a1d31ed24e07560) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_6_Materials/Door_6_White.mat using Guid(6033e845443834045a1d31ed24e07560) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'eef61d364730ddb849a5cf1be114d8bf') in 0.019754 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
-  artifactKey: Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat using Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e2a709c2a39af44481fb106eded9bc2e') in 0.017530 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Black.prefab
-  artifactKey: Guid(7813b0adcc8b7bd42a85149ab445129f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_5/Door_5_Black.prefab using Guid(7813b0adcc8b7bd42a85149ab445129f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'de4b6c98a5daaf8c4547795de2182fe6') in 0.010007 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
-  artifactKey: Guid(4f19c7f94c794c5097d8bd11e39c750d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs using Guid(4f19c7f94c794c5097d8bd11e39c750d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '79ffa923744a7a0035ced5f46286dac5') in 0.011714 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Black.mat
-  artifactKey: Guid(d24622ffb39074b42b4e5fd794e02d27) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Black.mat using Guid(d24622ffb39074b42b4e5fd794e02d27) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5d2dacc2743a27a6a452b470dfa28ba9') in 0.023057 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_3_Materials/Door_3_Coffe.mat
-  artifactKey: Guid(38bc89a84da046e4eb4d43070fa2ba7c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_3_Materials/Door_3_Coffe.mat using Guid(38bc89a84da046e4eb4d43070fa2ba7c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '2655752c83b35dd903c9a2a2e6c4474b') in 0.035525 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Coffe.mat
-  artifactKey: Guid(ab90892f58bd79b4399e51cd4d02f1ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_2_Materials/Door_2_Coffe.mat using Guid(ab90892f58bd79b4399e51cd4d02f1ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '220e2337feee5174c175cd65057995a7') in 0.027193 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
-  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '3f134ac5d687a36dc4c3356d665f07ee') in 0.052856 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
-  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'cd94ca6e75c89e79758fb77878464bf7') in 0.016776 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
-  artifactKey: Guid(a00013af81304728b2be1f4309ee2433) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat using Guid(a00013af81304728b2be1f4309ee2433) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '8c8fff60790e0190b37cd7eded5b4908') in 0.012691 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_12
-  artifactKey: Guid(1e19ba90d16efbe4999aaa4ed9fe02c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_12 using Guid(1e19ba90d16efbe4999aaa4ed9fe02c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c3b7deb357e745934dd68a6b11840d69') in 0.005978 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_13/Door_13_Black.prefab
-  artifactKey: Guid(4169c60f6686887469446f90351bb954) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_13/Door_13_Black.prefab using Guid(4169c60f6686887469446f90351bb954) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'eca7239e96795f55f453db46f8776853') in 0.006623 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000069 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_8
-  artifactKey: Guid(97b79767116b9194bb14366b3d249100) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_8 using Guid(97b79767116b9194bb14366b3d249100) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c51892c4a387e40725426c10f63bf19b') in 0.010408 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_8_Materials/Door_8_Brown.mat
-  artifactKey: Guid(77d589783fcc14749a52e85cf57d1f4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_8_Materials/Door_8_Brown.mat using Guid(77d589783fcc14749a52e85cf57d1f4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '16056fcb8afe46413f5b77558d206d71') in 0.014907 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/TextMesh Pro/Resources/Sprite Assets
-  artifactKey: Guid(512a49d95c0c4332bdd98131869c23c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/Sprite Assets using Guid(512a49d95c0c4332bdd98131869c23c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'a5421627bd338dc6df7f969a0d209165') in 0.009395 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Character Model/Material/Advanced/skin_robot.mat
-  artifactKey: Guid(0539cb79729d97f439f8eef69eeff41a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Advanced/skin_robot.mat using Guid(0539cb79729d97f439f8eef69eeff41a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '71e7989344d4a232590ebd104ff35ef8') in 0.026641 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Character Model/Material/Advanced/skin_soldier.mat
-  artifactKey: Guid(032ce1fbf28bb5c4aad37d379b23abd3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Character Model/Material/Advanced/skin_soldier.mat using Guid(032ce1fbf28bb5c4aad37d379b23abd3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '4ee1e7425e4c5b61bfab4ac1cc88cb02') in 0.016302 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
-  artifactKey: Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat using Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '934cc75b5cd1ebde2d2b31827a101afb') in 0.018023 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
-  artifactKey: Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs using Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '8d75b1bffe3ab0db27af130e151fbd63') in 0.014169 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000052 seconds.
-  path: Assets/PickupObject.cs
-  artifactKey: Guid(fe98b8b7a1cd4df4abcd326e926d9eb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PickupObject.cs using Guid(fe98b8b7a1cd4df4abcd326e926d9eb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '8cd962a3a9bc9ae160c6d7cf766a8b03') in 0.016863 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TextMesh Pro
-  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c038af499ae12ffdb15958da5143b1bf') in 0.013003 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 3.027275 seconds.
-  path: Assets/鏂板缓鏉愯川.mat
-  artifactKey: Guid(200e75206f116e0459fa3164bca82d4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/鏂板缓鏉愯川.mat using Guid(200e75206f116e0459fa3164bca82d4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'f42c789d9cebec288a786019f190722d') in 0.018980 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset
-  artifactKey: Guid(479a66fa4b094512a62b0a8e553ad95a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset using Guid(479a66fa4b094512a62b0a8e553ad95a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c1cfe44925d57ec12e14724db95579cb') in 0.022164 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Books/3dobjects_FBX/Materials/books.mat
-  artifactKey: Guid(153061f29d41be9438999ac2fae2c894) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Books/3dobjects_FBX/Materials/books.mat using Guid(153061f29d41be9438999ac2fae2c894) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'b471728294d64b8d6ac5c6aeb55765c5') in 0.017920 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_10
-  artifactKey: Guid(b12553ea818cb634bbb713e597c0651a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_10 using Guid(b12553ea818cb634bbb713e597c0651a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e733a36900172a1644d94b7977767223') in 0.018310 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000092 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_White.mat
-  artifactKey: Guid(7cf93901e67434242badd74c141b6f39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_White.mat using Guid(7cf93901e67434242badd74c141b6f39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '62d6934f8d37d6dbc8d12e94781e401d') in 0.024999 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_12_Materials
-  artifactKey: Guid(45c5385283c443447b71cb03101ab72d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_12_Materials using Guid(45c5385283c443447b71cb03101ab72d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '352d878b00694388928e0993e560c62c') in 0.016626 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
-  artifactKey: Guid(f2dcf029949142e28b974630369c8b4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat using Guid(f2dcf029949142e28b974630369c8b4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '7c554109a730ab2a031304ec9508b5c1') in 0.017325 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
-  artifactKey: Guid(aadd5a709a48466c887296bb5b1b8110) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat using Guid(aadd5a709a48466c887296bb5b1b8110) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '1b674a4f1fff8604f4ca2aeae9d92ec4') in 0.014977 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
-  artifactKey: Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs using Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '26fecc75048c3af9a0e0d3e856fde834') in 0.013634 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Sprites
-  artifactKey: Guid(701e577af2ba48b689972d42efb95456) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Sprites using Guid(701e577af2ba48b689972d42efb95456) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '06a6704a61a15cf885a4979ffb9e81ce') in 0.015320 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_8
-  artifactKey: Guid(b9ff5f70dd827634fbcb3691f20a7697) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_8 using Guid(b9ff5f70dd827634fbcb3691f20a7697) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '8091e650d4dd94d4f96c920d5ab6f374') in 0.013664 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000083 seconds.
-  path: Assets/PBR Folding Chairs/Meshes
-  artifactKey: Guid(dc673772bbb836e4b8d95ca785b563ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PBR Folding Chairs/Meshes using Guid(dc673772bbb836e4b8d95ca785b563ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'dbab84d5b148ef2bc1da1ac3cabadd9a') in 0.013573 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_7_Materials
-  artifactKey: Guid(5e48995782b1990498e86be1c7ee4cb1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_7_Materials using Guid(5e48995782b1990498e86be1c7ee4cb1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '38c0c94658b815594bcc82ced514c9a0') in 0.015645 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
-  artifactKey: Guid(128e987d567d4e2c824d754223b3f3b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader using Guid(128e987d567d4e2c824d754223b3f3b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '61178a13733934e4ed847eb61a1f3ee4') in 0.016829 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000072 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Milk.mat
-  artifactKey: Guid(2f54f2328d1829649b3193315784b948) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Milk.mat using Guid(2f54f2328d1829649b3193315784b948) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '7e0fb579164cc0f4b295a566f7a15b3b') in 0.020706 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_9_Materials
-  artifactKey: Guid(60f9edbe7f7c40b4592290fd6f9f0b8c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_9_Materials using Guid(60f9edbe7f7c40b4592290fd6f9f0b8c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '22cb2b776ed7970865b1249705532deb') in 0.012139 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_8_Materials/Door_8_Yellow.mat
-  artifactKey: Guid(a8cf18a280630e54d922d9b0206a698a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_8_Materials/Door_8_Yellow.mat using Guid(a8cf18a280630e54d922d9b0206a698a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '18aaa4f0abff85ab2fce42087756ebd3') in 0.023271 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_12_Materials/Door_12_Milk.mat
-  artifactKey: Guid(f1b3d0365be2cce449403f867f1b07e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_12_Materials/Door_12_Milk.mat using Guid(f1b3d0365be2cce449403f867f1b07e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '4061b44ced4b9ffb51a130f47d1ae888') in 0.022794 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_Black.mat
-  artifactKey: Guid(58de40241315294409caa86e87e95fdb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_15_Materials/Door_15_Black.mat using Guid(58de40241315294409caa86e87e95fdb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c5efa4f7d53c260fac3519a8feff298a') in 0.023547 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/JustPlay/TableAngular
-  artifactKey: Guid(00182ae4612d5bc4d861ae804a3719fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/JustPlay/TableAngular using Guid(00182ae4612d5bc4d861ae804a3719fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '1ecc311474b6574af213ddd325a5a7e6') in 0.018090 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
-  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'af77527a0d762983462777cf953464a0') in 0.015241 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Yellow.mat
-  artifactKey: Guid(7958caaaff0c4eb499f600cae6c8459b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Yellow.mat using Guid(7958caaaff0c4eb499f600cae6c8459b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '48d90a9a5d51c3bac853f3f3c6d0ece1') in 0.022955 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_2_Materials
-  artifactKey: Guid(a4b2b0f38798bfc4db20579cf4efe718) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_2_Materials using Guid(a4b2b0f38798bfc4db20579cf4efe718) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '320449bd90cd2eaf0903f346326c8aea') in 0.015181 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_Knob
-  artifactKey: Guid(3a792f14dac9f724c9071486ab968bc4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_Knob using Guid(3a792f14dac9f724c9071486ab968bc4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '172c04fb3aa8e48e35f7efafe477e736') in 0.015308 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.052527 seconds.
-  path: Assets/Books/3dobjects_FBX/Materials/books-book.mat
-  artifactKey: Guid(f3d87070dc9fb4246b3a788982ab59e8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Books/3dobjects_FBX/Materials/books-book.mat using Guid(f3d87070dc9fb4246b3a788982ab59e8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'd8ace9bbcf518c92b3017b9b264c97a7') in 0.016324 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
-  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '5fb1124610b9a0d74697637167c15c71') in 0.025617 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_7
-  artifactKey: Guid(fa6e1311ec120e847ac670db049ee4cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_7 using Guid(fa6e1311ec120e847ac670db049ee4cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'd421665e88991b77211a4fefe679171e') in 0.012817 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Coffe.mat
-  artifactKey: Guid(58ef590090153c247be0ad3a8b1f6fa4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Coffe.mat using Guid(58ef590090153c247be0ad3a8b1f6fa4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'c470afb8d2e46eff567980c516078bee') in 0.024315 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/InventoryUI.cs
-  artifactKey: Guid(e5ec3909723e06d4694034330ed4be3a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/InventoryUI.cs using Guid(e5ec3909723e06d4694034330ed4be3a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'ed2ce13c744e051bf70c9f2b0e4d10e8') in 0.013702 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets
-  artifactKey: Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets using Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '007c34622706e2be97345933e34b535b') in 0.014969 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Books/example_scene.unity
-  artifactKey: Guid(2ef777e8c3f1b914cac5af5fd66257e5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Books/example_scene.unity using Guid(2ef777e8c3f1b914cac5af5fd66257e5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '610c6893822ae058baef0c1244126495') in 0.014742 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/PBR Folding Chairs/Materials/chFolding.A4.mat
-  artifactKey: Guid(9b5ab3f6f2d3a6b488f64305724a87e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/PBR Folding Chairs/Materials/chFolding.A4.mat using Guid(9b5ab3f6f2d3a6b488f64305724a87e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '31c5c98efabe7605084cf62add040466') in 0.023590 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Inventory.cs
-  artifactKey: Guid(544f0ff1dd884b649882ff75b556bc92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Inventory.cs using Guid(544f0ff1dd884b649882ff75b556bc92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '79df954b1c32ab97dd26a82b54c46e60') in 0.015261 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
-  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e4c628ae81c6de03e195d9e92b930267') in 0.023172 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Free Wood Door Pack/Texture/Door_15
-  artifactKey: Guid(a1d42e3597de52143b6a0cd3ccd9cabc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Texture/Door_15 using Guid(a1d42e3597de52143b6a0cd3ccd9cabc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '1637b8c7b0d3b65cc13c846864fc706d') in 0.034426 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_8/Door_8_Coffe.prefab
-  artifactKey: Guid(697df4f607febd74ca38a0b4338be82c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_8/Door_8_Coffe.prefab using Guid(697df4f607febd74ca38a0b4338be82c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'e1f8d8e9eab52ab20560a59d25491e78') in 0.015613 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000075 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_3/Door_3_Coffe.prefab
-  artifactKey: Guid(06daa60d904c74549a060e3bd6bc9c54) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_3/Door_3_Coffe.prefab using Guid(06daa60d904c74549a060e3bd6bc9c54) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '2e2c303a1d610f2dd75b50038436b9f3') in 0.014211 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Venge.mat
-  artifactKey: Guid(4c5c8e9d4fa1176469c1f345c5d93b85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Materials/Door_7_Materials/Door_7_Venge.mat using Guid(4c5c8e9d4fa1176469c1f345c5d93b85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: '1ac9b1b9e618cb7e42e26c38581cb258') in 0.022387 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Free Wood Door Pack/Prefab/Wood/Door_2/Door_2_Black.prefab
-  artifactKey: Guid(26790669cef646944a4d6561a0374e14) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Free Wood Door Pack/Prefab/Wood/Door_2/Door_2_Black.prefab using Guid(26790669cef646944a4d6561a0374e14) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
- -> (artifact id: 'ce9cc7779b17bed98480954007753ec4') in 0.015634 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: 由于线程退出或应用程序请求，已中止 I/O 操作。
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.521 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.241 seconds
+Domain Reload Profiling: 1757ms
+	BeginReloadAssembly (200ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (259ms)
+		LoadAssemblies (386ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1242ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (375ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (283ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 11.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3234 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (1.8 MB). Loaded Objects now: 3747.
+Memory consumption went from 132.4 MB to 130.6 MB.
+Total: 4.503100 ms (FindLiveObjects: 0.415800 ms CreateObjectMapping: 0.094500 ms MarkObjects: 3.734100 ms  DeleteObjects: 0.257100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/InventoryUI.cs: f70d77a96e8f4f5a5e115ad4d542e4f2 -> a51eed18ec49e69d87a737edf5ea607f
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/Inventory.cs: b79a38350917b6ca6b1730278606b037 -> d078795b7125c8d5b747e156a3e12651
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 605ee4b17b636e2d18d892962c676ca6 -> fed1c67b9e30d74f2eaeb980cf6f4fbe
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.850 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.293 seconds
+Domain Reload Profiling: 2140ms
+	BeginReloadAssembly (437ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (73ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (334ms)
+		LoadAssemblies (592ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1293ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (359ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (64ms)
+			ProcessInitializeOnLoadAttributes (267ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 5.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3235 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (1.8 MB). Loaded Objects now: 3750.
+Memory consumption went from 132.6 MB to 130.9 MB.
+Total: 2.432100 ms (FindLiveObjects: 0.153100 ms CreateObjectMapping: 0.060500 ms MarkObjects: 2.022600 ms  DeleteObjects: 0.195000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/InventoryUI.cs: f70d77a96e8f4f5a5e115ad4d542e4f2 -> a51eed18ec49e69d87a737edf5ea607f
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/Inventory.cs: b79a38350917b6ca6b1730278606b037 -> d078795b7125c8d5b747e156a3e12651
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 605ee4b17b636e2d18d892962c676ca6 -> fed1c67b9e30d74f2eaeb980cf6f4fbe
