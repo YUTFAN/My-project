@@ -25,7 +25,7 @@ public class IntroSequence : MonoBehaviour
         }
     }
 
-    void EndIntro()
+    public void EndIntro()
     {
         // 切换到玩家摄像头
         introCamera.enabled = false;
