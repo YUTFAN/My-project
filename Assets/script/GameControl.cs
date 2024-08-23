@@ -27,7 +27,7 @@ public class GameControll : MonoBehaviour
 
         // If "esc" pressed return to menu
         int currentScene = SceneManager.GetActiveScene().buildIndex;
-        if (Input.GetKeyDown(KeyCode.Escape) && currentScene != 1) {
+        if (Input.GetKeyDown(KeyCode.U) && currentScene != 1) {
             Cursor.lockState = CursorLockMode.None;
             OpenMenu();
         }
