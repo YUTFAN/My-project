@@ -47,7 +47,7 @@ public class MediaPlayer : MonoBehaviour
         // Get the file extension
         string extension = Path.GetExtension(filePath).ToLower();
 
-        // Displayer image
+        // Display image
         if (IsImageFile(extension)){
             StartCoroutine(LoadImage(filePath)); 
         }
